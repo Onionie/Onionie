@@ -1,6 +1,6 @@
 - 👋 Hello, World! I’m Oniel Gutierrez
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React and deeper understanding of Javascript
 - 📫 How to reach https://www.linkedin.com/in/onionie/
 
 <!---
