@@ -1,6 +1,6 @@
 - 👋 Hello, World! I’m Oniel Gutierrez
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React and deeper understanding of Javascript
+- 👀 I’m aspiring to be a Full Stack Web Developer.
+- 🌱 I love working with JavaScript Technologies.
 - 📫 How to reach : <a href="https://www.linkedin.com/in/onionie/">LinkedIn</a>
 
 <!---
