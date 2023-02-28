@@ -1,5 +1,5 @@
 - 👋 Hello, World! I’m Oniel Gutierrez
-- 👀 I’m aspiring to be a Full Stack Web Developer.
+- 👀 I’m a Front-end Web Developer.
 - 🌱 I love working with JavaScript Technologies.
 - 📫 How to reach : <a href="https://www.linkedin.com/in/onionie/">LinkedIn</a>
 
